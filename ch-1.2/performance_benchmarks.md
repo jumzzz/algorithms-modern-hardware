@@ -10,5 +10,3 @@
 **Note:**
 - It's less likely that you'll beat OpenBlas with just your own code.
 - Language defaults matters. But Python can also call a very fast 3rd party languages.
-
-
